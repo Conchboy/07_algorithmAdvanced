@@ -6,6 +6,7 @@ def demo1():
 
 
 def demo2():
+    num = 88
     print("demo2 ==> %d" % num)
 
 
